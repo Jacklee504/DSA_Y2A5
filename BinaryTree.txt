@@ -1,0 +1,23 @@
+Q:Is it an animal?
+Q:Is it a common pet?
+Q:Does it bark?
+A:dog
+Q:Does it live in a cage?
+A:hamster
+A:cat
+Q:Does it fly?
+Q:Does it breathe fire?
+A:dragon
+A:bird
+Q:Is it found on the farm?
+Q:Is it wooly?
+A:sheep
+A:cow
+A:fish
+Q:Is it a plant?
+Q:Is it tall?
+A:tree
+A:flower
+Q:Does it move?
+A:car
+A:rock
